@@ -1,6 +1,8 @@
+package org.example;
+
 import java.util.Scanner;
 
-public class PrimeNumber {
+public class PrimeNumbers {
     
     // Method to check if a number is prime using n/2 approach
     public static boolean isPrime(int n) {
